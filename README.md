@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Laravel projects.
+I am currently working on React projects.
 
 
 ## 🌐 Socials:
